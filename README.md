@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi  👋
 
+![](https://komarev.com/ghpvc/?username=abindsoul&color=blue)
 <!--
 **abindsoul/abindsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
